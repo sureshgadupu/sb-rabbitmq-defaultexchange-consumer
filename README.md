@@ -1,1 +1,1 @@
-# sb-rabbitmq-defaultexchange_consumer
+# sb-rabbitmq-defaultexchange-consumer
